@@ -1,4 +1,6 @@
 print("Hey")
 input()
+print("Nig")
+input()
 print("Sorry")
 input()
